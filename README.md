@@ -1,1 +1,1 @@
-This is a project to recreate the Google homepage.
+Yup. This is a README file.
